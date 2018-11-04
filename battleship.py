@@ -2,6 +2,8 @@ from random import randint
 
 board = []
 
+a = 0
+
 for x in range(5):
     board.append(["O"] * 5)
 
